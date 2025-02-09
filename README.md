@@ -4,6 +4,8 @@ This repository contains a real-time AI-powered voice assistant built using Live
 
 🚀 Code of this repo is not available publically 
 
+Private Repo Link:https://github.com/Imran-Latif88/-LiveKit-AI-Voice-Assistant
+
 🚀 Features
 
 ✅ Real-time speech recognition (STT) via Deepgram
