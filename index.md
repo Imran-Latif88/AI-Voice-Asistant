@@ -2,6 +2,10 @@
 
 This repository contains a real-time AI-powered voice assistant built using LiveKit Agents, llama3-8b LLM, Deepgram STT, and Cartesia TTS. The assistant processes voice input, responds naturally in conversation, and integrates speech-to-text (STT), text-to-speech (TTS), and LLM capabilities.
 
+🚀 Code of this repo is not available publically 
+
+Private Repo Link:https://github.com/Imran-Latif88/-LiveKit-AI-Voice-Assistant
+
 🚀 Features
 
 ✅ Real-time speech recognition (STT) via Deepgram
